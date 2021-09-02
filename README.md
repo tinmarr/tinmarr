@@ -26,7 +26,7 @@
 
 <img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" width="16" /> Tinmarr#1077
 
-<img src="https://www.designbust.com/download/625/png/instagram_logo_transparent256.png" width="16" /> @chappymermer
+<img src="https://www.designbust.com/download/625/png/instagram_logo_transparent256.png" width="16" /> @chappymemer
 
 <img src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" width="16" /> Martin Chaperot-Merino
 
