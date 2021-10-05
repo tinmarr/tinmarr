@@ -24,7 +24,7 @@
 
 <img src="https://image.flaticon.com/icons/png/512/281/281769.png" width="16" /> <a href="mailto:martin.chapino@gmail.com">martin.chapino@gmail.com</a>
 
-<img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" width="16" /> Tinmarr#1077
+<img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" width="16" /> Tinmarr#7687
 
 <img src="https://www.designbust.com/download/625/png/instagram_logo_transparent256.png" width="16" /> @chappymemer
 
