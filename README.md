@@ -1,6 +1,6 @@
 # Hi there! 👋 My name is Martin!
 
-### I'm a full stack web developer who dables in Game Developing, Machine Learning, and Data Analyizing.
+### I'm a full stack web developer who dabbles in Game Developing, Machine Learning, and Data Analyizing.
 
 #### Skills:
 * Full stack web developer
