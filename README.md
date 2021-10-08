@@ -22,6 +22,8 @@
 
 ### If you need anything, feel free to reach out! I am quite responsive!
 
+<img src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" width="16"> <a href="https://www.linkedin.com/in/martinchaperot/">Martin Chaperot-Merino</a>
+
 <img src="https://image.flaticon.com/icons/png/512/281/281769.png" width="16" /> <a href="mailto:martin.chapino@gmail.com">martin.chapino@gmail.com</a>
 
 <img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" width="16" /> Tinmarr#7687
