@@ -4,32 +4,27 @@
 
 #### Skills:
 * Full stack web developer (React, NodeJS, NextJS)
-* HTML5 and Unity Game Dev
+* Unity and Godot Game Dev
 * Machine Learner (Tensorflow and the old fashion math way)
 * Data Analysis
   * SQL
   * Tableau
   * Sisense
-  * Matplotlub
+  * Matplotlib
 * Wide range of languages
   * HTML/JS & Typescript
   * Python
   * Java & Processing
-  * C#
+  * C, C++, C#
+  * Lua
   * Matlab & Octave
   * And I can learn any others very quickly!
 * I also pick up new things very easily!
 
 ### If you need anything, feel free to reach out! I am quite responsive!
 
-<img src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" width="16"> <a href="https://www.linkedin.com/in/martinchaperot/">Martin Chaperot-Merino</a>
+Email: [martin.chapino@gmail.com](mailto:martin.chapino@gmail.com)
 
-<img src="https://image.flaticon.com/icons/png/512/281/281769.png" width="16" /> <a href="mailto:martin.chapino@gmail.com">martin.chapino@gmail.com</a>
+Discord: Tinmarr#7687
 
-<img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" width="16" /> Tinmarr#7687
-
-<img src="https://www.designbust.com/download/625/png/instagram_logo_transparent256.png" width="16" /> @chappymemer
-
-<img src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" width="16" /> Martin Chaperot-Merino
-
-<img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" width="16" /> @tinmarr1
+Twitter: [@chappymermer](https://twitter.com/chappymermer)
