@@ -12,6 +12,7 @@
   * Sisense
   * Matplotlib
 * Wide range of languages
+  * Rust
   * HTML/JS & Typescript
   * Python
   * Java & Processing
