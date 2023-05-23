@@ -3,7 +3,7 @@
 ### I'm a Game Developer, Machine Learner, and Data Analyst!
 
 #### Skills:
-* Full stack web developer (React, NodeJS, NextJS)
+* Full stack web developer (React, NodeJS, NextJS, Django, Vue, and more!)
 * Unity and Godot Game Dev
 * Machine Learner (Tensorflow and the old fashion math way)
 * Data Analysis
