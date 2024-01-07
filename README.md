@@ -1,24 +1,24 @@
 # Hi there! 👋 My name is Martin!
 
-### I'm a Game Developer, Machine Learner, and Data Analyst!
+### I'm a Game Developer, Machine Learner, and Full-Stack Developer!
 
 #### Skills:
 * Full stack web developer (React, NodeJS, NextJS, Django, Vue, and more!)
 * Unity and Godot Game Dev
-* Machine Learner (Tensorflow and the old fashion math way)
+* Machine Learner (Tensorflow, PyTorch and the old fashion math way)
 * Data Analysis
-  * SQL
-  * Tableau
-  * Sisense
+  * SQL (PostGres, MySQL)
+  * Data Viz (Superset, Tableau, Sisense)
   * Matplotlib
 * Wide range of languages
+  * C, C++
   * Rust
-  * HTML/JS & Typescript
   * Python
-  * Java & Processing
-  * C, C++, C#
+  * HTML/JS & TS/JS
+  * Java
+  * C#
   * Lua
-  * Matlab & Octave
+  * Matlab, Octave & R
   * And I can learn any others very quickly!
 * I also pick up new things very easily!
 
