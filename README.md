@@ -17,7 +17,7 @@
   * HTML/JS & TS/JS
   * Java
   * C#
-  * Lua
+  * Lua, Haskell, E-Lisp
   * Matlab, Octave & R
   * And I can learn any others very quickly!
 * I also pick up new things very easily!
