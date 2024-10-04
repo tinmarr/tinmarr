@@ -1,20 +1,21 @@
 # Hi there! 👋 My name is Martin!
 
-### I'm a Game Developer, Machine Learner, and Full-Stack Developer!
+##### I'm a CS student at l'Université de Montréal
 
 #### Skills:
 * Full stack web developer (React, NodeJS, NextJS, Django, Vue, and more!)
 * Unity and Godot Game Dev
-* Machine Learner (Tensorflow, PyTorch and the old fashion math way)
+* Machine Learner (Tensorflow, PyTorch)
 * Data Analysis
-  * SQL (PostGres, MySQL)
+  * SQL (PostGres, SQLite)
   * Data Viz (Superset, Tableau, Sisense)
   * Matplotlib
 * Wide range of languages
+  * Python
+  * Go
   * C, C++
   * Rust
-  * Python
-  * HTML/JS & TS/JS
+  * HTML/CSS & TS/JS
   * Java
   * C#
   * Lua, Haskell, E-Lisp
@@ -28,4 +29,4 @@ Email: [martin.chapino@gmail.com](mailto:martin.chapino@gmail.com)
 
 Discord: Tinmarr#7687
 
-Twitter: [@chappymermer](https://twitter.com/chappymermer)
+Twitter: [@chappymermer](https://x.com/chappymermer)
