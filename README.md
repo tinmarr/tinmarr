@@ -11,8 +11,8 @@
   * Data Viz (Superset, Tableau, Sisense)
   * Matplotlib
 * Wide range of languages
-  * Python
   * Go
+  * Python
   * C, C++
   * Rust
   * HTML/CSS & TS/JS
