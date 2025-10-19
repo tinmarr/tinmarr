@@ -25,8 +25,8 @@
 
 ### If you need anything, feel free to reach out! I am quite responsive!
 
-Email: [martin.chapino@gmail.com](mailto:martin.chapino@gmail.com)
+Email: [martin.chaperot@proton.me](mailto:martin.chaperot@proton.me)
 
-Discord: Tinmarr#7687
+Discord: Tinmarr
 
 Twitter: [@chappymermer](https://x.com/chappymermer)
