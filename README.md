@@ -7,7 +7,7 @@
 * Unity and Godot Game Dev
 * Machine Learner (Tensorflow, PyTorch)
 * Data Analysis
-  * SQL (PostGres, SQLite)
+  * SQL (Postgres, SQLite)
   * Data Viz (Superset, Tableau, Sisense)
   * Matplotlib
 * Wide range of languages
